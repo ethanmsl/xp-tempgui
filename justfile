@@ -8,7 +8,7 @@ _default:
 [no-cd]
 template-rg *INSIDE:
 	@ echo "-- NOTE: this is run from calling directory; not justfile directory. --"
-	rg "\{\{.*{{INSIDE}}.*\}\}"
+	-rg "\{\{.*{{INSIDE}}.*\}\}"
 
 # Cargo run --release, plus optional installs for specific systems.
 run-local-classic:
