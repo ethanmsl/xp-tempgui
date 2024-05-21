@@ -1,5 +1,9 @@
 # [cargo-generate](https://github.com/cargo-generate/cargo-generate) adaptation of [eframe template](https://github.com/emilk/eframe_template)
 
+
+# This is an instance of an (earlier, v0.25) generate-version no the eframe template
+
+
 ## status:
 
 <details>
